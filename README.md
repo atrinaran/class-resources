@@ -1,0 +1,2 @@
+# class-resources
+class-resources
